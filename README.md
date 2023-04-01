@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python , Flask , Dropbox API**
 
-- 📄 Know about my experiences [CommingSoon.in](CommingSoon.in)
+- 📄 Know about my experiences **Have 1 Year Experience & Builds so many IOT & Web Apps**
 
 - ⚡ Fun fact **Debugging is like detective work, where the developer is the detective, the code is the criminal, and the computer is the prison**
 
