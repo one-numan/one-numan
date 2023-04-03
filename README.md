@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/one-numan1](https://github.com/one-numan1)
 
-- 💬 Ask me about **Python , Flask , Dropbox API**
+- 💬 Ask me about **Python , Flask , Dropbox API , PostGReSQL , Linux , VM**
 
 - 📄 Know about my experiences **Have 1 Year Experience & Builds so many IOT & Web Apps**
 
