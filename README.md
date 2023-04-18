@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Ekak Innovation as Full Stack Python Developer**
 
-- 🌱 I’m currently learning ** Javascript Fundamental , Node JS , React**
+- 🌱 I’m currently learning **Javascript Fundamental , Node JS , React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/one-numan](https://github.com/one-numan)
 
