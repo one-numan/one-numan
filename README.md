@@ -1,35 +1,246 @@
 
 ![one-Numan](https://user-images.githubusercontent.com/48924562/229305475-c4492336-0687-418e-a98d-3870c756f2ba.png)
 
+# <div align="center">Hi, I'm Mohd Numan</div>
 
-<h1 align="center">Hi 👋, I'm Mohd Numan</h1>
-<h3 align="center">I'm a full stack developer with experience building scalable web applications using Python Flask, SQLite, Postgres, HTML, CSS, JavaScript, AJAX, and Raspberry Pi. I have a strong focus on backend development, and I'm passionate about building efficient and robust web services.</h3>
-<img align="right" alt="one-Numan1" width=400 src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=one-numan1&label=Profile%20views&color=0e75b6&style=flat" alt="one-numan1" /> </p>
+### Senior Full Stack Python Developer | Backend Engineer | Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on **Ekak Innovation as Full Stack Python Developer**
+Building scalable backend systems, enterprise applications, secure APIs, AI-powered cybersecurity solutions, and cloud-native applications.
 
-- 🌱 I’m currently learning **Javascript Fundamental , Node JS , React**
+<img src="https://komarev.com/ghpvc/?username=one-numan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/one-numan](https://github.com/one-numan)
+</div>
 
-- 💬 Ask me about **Python , Flask , Dropbox API , PostGReSQL , Linux , VM**
+---
 
-- 📄 Know about my experiences **Have 2 Year Experience & Builds so many IOT & Web Apps**
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-- ⚡ Fun fact **Debugging is like detective work, where the developer is the detective, the code is the criminal, and the computer is the prison**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/one-numan" target="blank"><img align="center" src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" alt="one-numan" height="30" width="50" /></a>
+I'm a **Senior Full Stack Python Developer** with **4+ years of experience** designing and building enterprise applications, secure backend systems, REST APIs, and cybersecurity solutions.
+
+I enjoy solving complex engineering challenges, designing scalable architectures, improving application performance, and building secure systems that operate reliably in production.
+
+My experience spans backend development, DevOps, cloud infrastructure, AI integration, secure file processing, and enterprise software development.
+
+<br>
+
+## What I'm Working On
+
+- Enterprise School ERP
+- Content Disarm & Reconstruction (CDR)
+- Email Security Platform
+- AI-powered Threat Detection
+- Docker-based Secure Sandbox Processing
+- High Performance REST APIs
+- Cloud Deployment & Infrastructure Automation
+
+---
+
+## Currently Learning
+
+- Artificial Intelligence & Machine Learning
+- Large Language Models (LLMs)
+- Kubernetes
+- Distributed Systems
+- System Design
+- DevSecOps
+- Cloud Native Architecture
+
+---
+
+## Ask Me About
+
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- Flask
+- REST APIs
+- PostgreSQL
+- MySQL
+- Redis
+- Celery
+- Docker
+- Linux
+- AWS
+- Nginx
+- React
+- Cybersecurity
+- Email Security
+- Malware Analysis
+- Content Disarm & Reconstruction (CDR)
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+<img src="https://www.svgrepo.com/show/374016/python.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180328/utq/kisspng-bootstrap-logo-computer-software-web-application-p-b-5abb6c2a90f851.2203635715222323625938.jpg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180421/vdq/kisspng-css3-cascading-style-sheets-logo-html-markup-langu-5adbf15c141187.7175103915243636120822.jpg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452045/js.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/221326/mysql.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/191391/panda-bear-panda.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+**Python • Django • Django REST Framework • FastAPI • Flask • Celery**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=one-numan&show_icons=true&locale=en&layout=compact" alt="one-numan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=one-numan&show_icons=true&locale=en" alt="one-numan" /></p>
+### Frontend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=one-numan&" alt="one-numan" /></p>
+<p>
+<img src="https://www.svgrepo.com/show/452092/react.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/452045/js.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+</p>
+
+**React • JavaScript • HTML5 • CSS3 • Bootstrap • AJAX**
+
+---
+
+### Database
+
+<p>
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/221326/mysql.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/373845/mongo.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="45"/>
+</p>
+
+**PostgreSQL • MySQL • SQLite • MongoDB • Redis**
+
+---
+
+### DevOps & Cloud
+
+<p>
+<img src="https://www.svgrepo.com/show/452192/docker.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/448236/linux.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+</p>
+
+**Docker • Kubernetes • AWS • Linux • Nginx • Git**
+
+---
+
+## Professional Highlights
+
+- Designed scalable backend architectures for enterprise applications.
+- Developed secure REST APIs using Django REST Framework and FastAPI.
+- Built enterprise-grade School ERP systems.
+- Developed secure Content Disarm & Reconstruction (CDR) solutions.
+- Implemented AI-assisted threat detection workflows.
+- Built Docker-based sandbox environments for secure file analysis.
+- Optimized database performance for large-scale applications.
+- Worked extensively with PostgreSQL, Redis, Celery and Docker.
+- Experience deploying applications on Linux servers using Nginx and AWS.
+
+---
+
+## Featured Projects
+
+### Enterprise School ERP
+
+A scalable school management platform with role-based authentication, student management, attendance, examinations, inventory, finance and reporting.
+
+---
+
+### Content Disarm & Reconstruction (CDR)
+
+Secure file sanitization platform supporting multiple document formats with malware detection, URL analysis, metadata cleaning and secure reconstruction.
+
+---
+
+### Email Security Platform
+
+Enterprise email security solution providing phishing detection, attachment scanning, URL reputation analysis and AI-assisted threat identification.
+
+---
+
+### Docker Sandbox
+
+Automated Docker sandbox environment for securely analyzing uploaded files, collecting execution logs and isolating potentially malicious content.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=one-numan&show_icons=true&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-numan&layout=compact&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=one-numan&theme=github-dark-blue"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=one-numan&theme=algolia&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=one-numan&theme=github-compact"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://github.com/one-numan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/one-numan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+## Interests
+
+- Backend Engineering
+- Cybersecurity
+- Artificial Intelligence
+- System Design
+- Distributed Systems
+- DevOps
+- Cloud Computing
+- Performance Optimization
+- Open Source
+
+---
+
+## Fun Fact
+
+> "I believe building secure, scalable and maintainable software is more valuable than simply making code work."
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile
+
+**If you like my work, don't forget to star my repositories.**
+
+</div>
+
